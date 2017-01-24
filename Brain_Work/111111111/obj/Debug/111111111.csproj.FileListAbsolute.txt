@@ -1,0 +1,11 @@
+C:\Users\Student\Documents\111111111\111111111\bin\Debug\111111111.exe.config
+C:\Users\Student\Documents\111111111\111111111\obj\Debug\111111111.csprojResolveAssemblyReference.cache
+D:\Brain\111111111\bin\Debug\111111111.exe.config
+D:\Brain\111111111\obj\Debug\ResolveAssemblyReference.cache
+E:\Brain111\111111111\bin\Debug\111111111.exe.config
+C:\Users\i\Desktop\Brain111\111111111\bin\Debug\111111111.exe.config
+C:\Users\i\Desktop\Brain111\111111111\bin\Debug\111111111.exe
+C:\Users\i\Desktop\Brain111\111111111\bin\Debug\111111111.pdb
+C:\Users\i\Desktop\Brain111\111111111\obj\Debug\111111111.exe
+C:\Users\i\Desktop\Brain111\111111111\obj\Debug\111111111.pdb
+C:\Users\i\Desktop\Brain111\111111111\obj\Debug\111111111.csprojResolveAssemblyReference.cache

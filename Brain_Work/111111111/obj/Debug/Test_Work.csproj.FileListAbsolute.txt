@@ -1,0 +1,5 @@
+C:\Users\i\Desktop\Brain111\111111111\bin\Debug\111111111.exe.config
+C:\Users\i\Desktop\Brain111\111111111\bin\Debug\111111111.exe
+C:\Users\i\Desktop\Brain111\111111111\bin\Debug\111111111.pdb
+C:\Users\i\Desktop\Brain111\111111111\obj\Debug\111111111.exe
+C:\Users\i\Desktop\Brain111\111111111\obj\Debug\111111111.pdb
